@@ -11,6 +11,7 @@ I used playgrounds to practice and implement the code
 
 - **October 1st** - [Choosing Font using UIFontPickerViewController](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct1.swift)
 - **October 2nd** - [SwiftUI in Swift Playgrounds](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct2.swift)
+- **October 3rd** - [Showing a Relative Date and Time using RelativeDateTimeFormatter](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct3.swift)
 
 
 **Happy Learning!**
