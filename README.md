@@ -13,7 +13,7 @@ I used playgrounds to practice and implement the code
 - **October 2nd** - [SwiftUI in Swift Playgrounds](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct2.swift)
 - **October 3rd** - [Showing a Relative Date and Time using RelativeDateTimeFormatter](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct3.swift)
 - **October 4th** - [Detecting your iOS App running on macOS Catalyst](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct4.swift)
-
+- **October 5th** - [Performing sentimental analysis on a string using NLTagger](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct5.swift)
 
 
 **Happy Learning!**
