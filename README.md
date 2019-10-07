@@ -15,6 +15,7 @@ I used playgrounds to practice and implement the code
 - **October 4th** - [Detecting your iOS App running on macOS Catalyst](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct4.swift)
 - **October 5th** - [Performing sentimental analysis on a string using NLTagger](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct5.swift)
 - **October 6th** - [Decoding JSON from the app bundle](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct6.swift)
+- **October 7th** - [Joining array of strings in a natural way](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct7.swift)
 
 
 **Happy Learning!**
