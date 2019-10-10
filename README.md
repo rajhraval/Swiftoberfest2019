@@ -18,7 +18,7 @@ I used playgrounds to practice and implement the code
 - **October 7th** - [Joining array of strings in a natural way](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct7.swift)
 - **October 8th** - [Modify Haptic Events using CHHapticParameterCurve](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct8.swift)
 - **October 9th** - [Using CoreImage filters the type-safe ways](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct9.swift)
-
+- **October 10th** - [Reloading table view while preserving selections](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct10.swift)
 
 **Happy Learning!**
 
