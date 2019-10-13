@@ -21,6 +21,7 @@ I used playgrounds to practice and implement the code
 - **October 10th** - [Reloading table view while preserving selections](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct10.swift)
 - **October 11th** - [Converting Multi-Dimensional Array into a Single Array](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct11.swift)
 - **October 12th** - [Finding similar words for a search term using NLEmbedding](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct12.swift)
+- **October 13th** - [Compressing and Decompressing Data](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct13.swift)
 
 **Happy Learning!**
 
