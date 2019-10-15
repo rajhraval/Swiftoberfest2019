@@ -23,6 +23,7 @@ I used playgrounds to practice and implement the code
 - **October 12th** - [Finding similar words for a search term using NLEmbedding](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct12.swift)
 - **October 13th** - [Compressing and Decompressing Data](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct13.swift)
 - **October 14th** - [How map(), flatMap() and compactMap() work and the differences between them](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct14.swift)
+- **October 15th** - [Unwrapping optionals in tests using XCTUnwrap](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct15.swift)
 
 **Happy Learning!**
 
