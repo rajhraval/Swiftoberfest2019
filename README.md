@@ -24,6 +24,13 @@ I used playgrounds to practice and implement the code
 - **October 13th** - [Compressing and Decompressing Data](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct13.swift)
 - **October 14th** - [How map(), flatMap() and compactMap() work and the differences between them](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct14.swift)
 - **October 15th** - [Unwrapping optionals in tests using XCTUnwrap](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct15.swift)
+- **October 16th** - [Creating advance UICollectionView Layouts (Compositonal Layouts)](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct16.swift)
+- **October 17th** - [Disabling Interactive swipe to dismiss for view controllers](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct17.swift)
+- **October 18th** - [Inout Parameters in a function](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct18.swift)
+- **October 19th** - [Support Low Data Mode during a URLRequest.allowsConstrainedNetworkAccess](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct19.swift)
+- **October 20th** - [Reading specific kinds of text using accessibilityTextualContext by VoiceOver](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct20.swift)
+
+
 
 **Happy Learning!**
 
