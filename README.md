@@ -29,6 +29,7 @@ I used playgrounds to practice and implement the code
 - **October 18th** - [Inout Parameters in a function](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct18.swift)
 - **October 19th** - [Support Low Data Mode during a URLRequest.allowsConstrainedNetworkAccess](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct19.swift)
 - **October 20th** - [Reading specific kinds of text using accessibilityTextualContext by VoiceOver](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct20.swift)
+- **October 21th** - [Disabling undo, redo, copy, and paste gestures using editingInteractionConfiguration](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct21.swift)
 
 
 
