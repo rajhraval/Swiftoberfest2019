@@ -32,6 +32,8 @@ I used playgrounds to practice and implement the code
 - **October 21st** - [Disabling undo, redo, copy, and paste gestures using editingInteractionConfiguration](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct21.swift)
 - **October 22nd** - [Checking Haptic Support for Hardware Capabilities](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct22.swift)
 - **October 23rd** - [Benchmarking App Launch Time using XCTOSSignpostMetric.applicationLaunch](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct23.swift)
+- **October 24th** - [Check one date similar to anothe provided date](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct24.swift)
+- **October 25th** - [Setting clock time in iOS Simulator](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct25.md)
 
 
 
