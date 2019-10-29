@@ -34,8 +34,9 @@ I used playgrounds to practice and implement the code
 - **October 23rd** - [Benchmarking App Launch Time using XCTOSSignpostMetric.applicationLaunch](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct23.swift)
 - **October 24th** - [Check one date similar to anothe provided date](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct24.swift)
 - **October 25th** - [Setting clock time in iOS Simulator](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct25.md)
-- **October 26th** - [When to use trailing/leading anchors and when to use left/right anchors](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct25.md)
-- **October 27th** - [Making a network request wait for an internet connection](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct25.md)
+- **October 26th** - [When to use trailing/leading anchors and when to use left/right anchors](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct26.md)
+- **October 27th** - [Making a network request wait for an internet connection](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct27.md)
+- **October 28th** - [Converting camelCase and snake_case with Codable using keyEncoding strategy](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct28.md)
 
 **Happy Learning!**
 
