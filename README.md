@@ -37,6 +37,7 @@ I used playgrounds to practice and implement the code
 - **October 26th** - [When to use trailing/leading anchors and when to use left/right anchors](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct26.md)
 - **October 27th** - [Making a network request wait for an internet connection](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct27.md)
 - **October 28th** - [Converting camelCase and snake_case with Codable using keyEncoding strategy](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct28.md)
+- **October 29th** - [Making operations wait until a previous operation is completed](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct29.md)
 
 **Happy Learning!**
 
