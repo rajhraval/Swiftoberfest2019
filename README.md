@@ -34,11 +34,11 @@ I used playgrounds to practice and implement the code
 - **October 23rd** - [Benchmarking App Launch Time using XCTOSSignpostMetric.applicationLaunch](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct23.swift)
 - **October 24th** - [Check one date similar to anothe provided date](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct24.swift)
 - **October 25th** - [Setting clock time in iOS Simulator](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct25.md)
-- **October 26th** - [When to use trailing/leading anchors and when to use left/right anchors](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct26.md)
-- **October 27th** - [Making a network request wait for an internet connection](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct27.md)
-- **October 28th** - [Converting camelCase and snake_case with Codable using keyEncoding strategy](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct28.md)
-- **October 29th** - [Making operations wait until a previous operation is completed](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct29.md)
-- **October 30th** - [Formatting Dates and Time Style and Converting Strings into Date using DateFormatter](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct28.md)
+- **October 26th** - [When to use trailing/leading anchors and when to use left/right anchors](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct26.swift)
+- **October 27th** - [Making a network request wait for an internet connection](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct27.swift)
+- **October 28th** - [Converting camelCase and snake_case with Codable using keyEncoding strategy](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct28.swift)
+- **October 29th** - [Making operations wait until a previous operation is completed](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct30.swift)
+- **October 30th** - [Formatting Dates and Time Style and Converting Strings into Date using DateFormatter](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct31.swift)
 - **October 31st** - [Grouping User Notifications using thread identifier and summary arguments](https://github.com/BuckyBoy6399/Swiftoberfest2019/blob/master/Oct29.md)
 
 **Happy Learning!**
